@@ -12,7 +12,7 @@ The dataset that I am using is collected from Kaggle, which contains data about 
 
 The main purpose of sentiment analysis is to analyze the opinions of users of a particular product or service, which helps customers understand the quality of the product. For example, every time Apple releases a new iPhone, we see a lot of people giving their opinion on it, some like it and some criticize it, in the end, all people’s opinions help us decide whether we should buy the new iPhone or not.
 
-# Project 2: Fake News Detection with Machine Learning
+# Project 3: Fake News Detection with Machine Learning
 
 Fake news is one of the biggest problems with online social media and even some news sites. Most of the time, we see a lot of fake news about politics. So using machine learning for fake news detection is a very challenging task.
 
